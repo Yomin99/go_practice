@@ -1,0 +1,11 @@
+{
+    "log": {
+        "output": "fizzbuzz.log",
+        "format": "text",
+        "flags": [
+            "Ldate",
+            "Ltime",
+            "Lshortfile"
+        ]
+    }
+}
